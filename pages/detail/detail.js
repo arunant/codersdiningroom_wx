@@ -1,4 +1,4 @@
-// pages/home/home.js
+// pages/detail/detail.js
 Page({
 
   /**
@@ -6,12 +6,6 @@ Page({
    */
   data: {
   
-  },
-
-  bindViewTap: function(){
-    wx.navigateTo({
-      url: '../detail/detail',
-    })
   },
 
   /**
