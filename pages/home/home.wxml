@@ -9,8 +9,8 @@
 </view>
 
 <view class='menu'>
-<image bindtap="bindViewTap" class='dishes' src='../../images/dishes1.jpg'></image>
-<image bindtap="bindViewTap" class='dishes' src='../../images/dishes2.jpg'></image>
-<image bindtap="bindViewTap" class='dishes' src='../../images/dishes3.jpg'></image>
-<image bindtap="bindViewTap" class='dishes' src='../../images/dishes4.jpg'></image>
+<image bindtap="bindViewTap" class='dishes' src='../../images/dishes/dishes1.jpg'></image>
+<image bindtap="bindViewTap" class='dishes' src='../../images/dishes/dishes2.jpg'></image>
+<image bindtap="bindViewTap" class='dishes' src='../../images/dishes/dishes3.jpg'></image>
+<image bindtap="bindViewTap" class='dishes' src='../../images/dishes/dishes4.jpg'></image>
 </view>
