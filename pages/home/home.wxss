@@ -1,0 +1,4 @@
+/* pages/home/home.wxss */
+.logoimg{width: 412px;}
+.waiter{height: 100px;}
+.dishes{width: 180px;margin: 0 auto;}
