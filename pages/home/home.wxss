@@ -1,4 +1,59 @@
 /* pages/home/home.wxss */
-.logoimg{width: 412px;}
-.waiter{height: 100px;}
-.dishes{width: 180px;margin: 0 auto;}
+
+.logoimg {
+  width: 412px;
+}
+
+.waiter {
+  height: 100px;
+}
+
+.dishes {
+  width: 180px;
+  margin: 0 auto;
+}
+
+.search {
+  border: 1px;
+}
+
+/*搜索框*/
+
+.bar8 {
+  background: #b46381;
+}
+
+.bar8 form {
+  height: 42px;
+}
+
+.bar8 input {
+  width: 0;
+  padding: 0 42px 0 15px;
+  border-bottom: 2px solid transparent;
+  background: transparent;
+  transition: 0.3s linear;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+}
+
+.bar8 input:focus {
+  width: 300px;
+  z-index: 1;
+  border-bottom: 2px solid #f9f0da;
+}
+
+.bar8 button {
+  background: #683b4d;
+  top: 0;
+  right: 0;
+}
+
+.bar8 button:before {
+  content: "\f002";
+  font-family: FontAwesome;
+  font-size: 16px;
+  color: #f9f0da;
+}

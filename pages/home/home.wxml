@@ -5,7 +5,9 @@
 <image class='logoimg' src='../../images/diningroom.jpg'></image>
 </view>
 <view class='waiter'>
-
+<form>
+<input type='text' placeholder='搜索' class='search'></input>
+</form>
 </view>
 
 <view class='menu'>
